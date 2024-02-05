@@ -1,5 +1,3 @@
-I'm Professor of Cardiovascular Physiology and Pharmacology at UCL
-
 My research interests include __haemodynamics__, __blood pressure__ and __cardiovascular health__. 
 
 I use GitHub mostly for software development in __Stata__ and __Matlab__.
