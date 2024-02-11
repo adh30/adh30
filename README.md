@@ -1,4 +1,4 @@
-My research interests include __haemodynamics__, __blood pressure__ and __cardiovascular health__. 
+My research interests include __haemodynamics__, __blood pressure__ and __cardiometabolic health__. 
 
 I use GitHub mostly for software development in __Stata__ and __Matlab__.
 
