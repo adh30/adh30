@@ -1,6 +1,6 @@
 My research interests include __haemodynamics__, __blood pressure__ and __cardiometabolic health__. 
 
-I use GitHub mostly for software using __Stata__ and __Matlab__.
+I mostly write software for __Stata__ and __Matlab__.
 
 <!--
 **adh30/adh30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
